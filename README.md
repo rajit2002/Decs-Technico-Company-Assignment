@@ -41,4 +41,8 @@ Automated test scripts have been written using **Selenium WebDriver with Java**,
 - **Maven** (for dependency management)  
 
 
+### **Video Demonstration**
 
+A video walkthrough of our testing approach is available. You can access it here:
+
+🔗 Google Drive Video Link[https://drive.google.com/file/d/1dzubK83XHv8SjWYOORgmJpPvO98EmQBN/view?usp=sharing ]
