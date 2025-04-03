@@ -4,7 +4,7 @@
 This repository contains testing documentation for the **File Sharing Application**, covering both **manual testing** and **automation testing** approaches. The application allows users to **register, log in, and upload files**, and our testing ensures that these features work as expected.  
 
 We have structured our work into two branches:  
-- `automation-testing-project` → For automated test scripts using page object model 
+- `Main branch` → For automated test scripts using page object model 
 - `manual-testing-project` → For manual testing documentation  
 
 ---
