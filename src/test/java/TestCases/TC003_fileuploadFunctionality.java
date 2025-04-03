@@ -26,11 +26,20 @@ public class TC003_fileuploadFunctionality extends TestBase {
 		lp.setloginbtn();
 		
 		Thread.sleep(8);
+		
+
+	//	.......upload file...........
+		
+	uploadFilePage uplP = new uploadFilePage(driver);
+		uploadFilePage uploadP = new uploadFilePage(driver);
+		uploadP.setFileupload();
+		uploadP.setpwdCheckbox();
+		uploadP.setpw();
+		uploadP.setuploadfilebtn();
 	}
 	
 	
-//	.......upload file...........
-	uploadFilePage uplP = new uploadFilePage(driver);
+
 	  
 
 	
